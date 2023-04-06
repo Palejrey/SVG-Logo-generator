@@ -1,5 +1,5 @@
 # SVG-LOGO-GENERATOR 
- undefined 
+
  ## Description 
  > The purpose of this program is to demostrate competency in object oriented programming in javascript, and for people to create a basic rudamentary SVG logo. 
  ## Table Of Contents 
