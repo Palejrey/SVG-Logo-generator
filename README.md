@@ -1,5 +1,5 @@
 # SVG-LOGO-GENERATOR 
- undefined 
+
  ## Description 
  > The purpose of this program is to demostrate competency in object oriented programming in javascript, and for people to create a basic rudamentary SVG logo. 
  ## Table Of Contents 
@@ -7,7 +7,7 @@
  - [Usage](#Usage) 
  - [Contribution](#Contribution) 
  - [License](#License) 
- - [Tests](#) 
+ - [Tests](#Tests) 
  - [Questions](#Questions) 
 ## Installation 
  > In order to have the program to work, the user will have to download JEST and inquirer@8.2.4 . 
